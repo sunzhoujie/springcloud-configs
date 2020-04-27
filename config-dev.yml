@@ -1,2 +1,5 @@
 config:
-  info: "master branch,config-repo config-dev.yml version=6"
+  info: "master branch,config-repo config-dev.yml version=7"
+
+user:
+  add: http://300.cn/user/add
